@@ -4,4 +4,5 @@ IDEE:
 
 - Alcuni strumenti hanno pochi file audio
 	-> Data Augmentation (?)
+	-> Eliminare le classi con meno esempi.
 - Si potrebbe provare un approccio con spettogrammi/mel-spettrogrammi con Conv2D
