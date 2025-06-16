@@ -1,0 +1,7 @@
+AIEA - Classificazione strumenti musicali
+
+IDEE:
+
+- Alcuni strumenti hanno pochi file audio
+	-> Data Augmentation (?)
+- Si potrebbe provare un approccio con spettogrammi/mel-spettrogrammi con Conv2D
