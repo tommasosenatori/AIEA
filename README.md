@@ -9,7 +9,7 @@ An additional objective of the project is to study the behaviour of the Convolut
 The dataset is available [here](https://www.kaggle.com/datasets/abdulvahap/music-instrunment-sounds-for-classification)
 ## Code
 - Classification using MFCCs: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mfccs.ipynb)
-- Classification using Mel-Spectograms: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mel-spectograms.ipynb.ipynb)
+- Classification using Mel-Spectograms: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mel-spectograms.ipynb)
 - MFCC MEAN and t-SNE: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_mfcc_mean_t-sne.ipynb)
 ## Authors
 - Tommaso Senatori
