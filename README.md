@@ -1,6 +1,7 @@
 # Musical Instrument Classification using Deep Learning Techniques
 ## Overview
 The project focuses on the classification of audio files of musical instruments using Deep Learning techniques.
+
 The main objective is to develop a system capable of accurately recognizing and classifying musical instruments through the use of Convolutional Neural Networks (CNNs), by analyzing MFCC coefficients and Mel-Spectrograms.
 ## Dataset
 The dataset is available [here](https://www.kaggle.com/datasets/abdulvahap/music-instrunment-sounds-for-classification)
