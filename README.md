@@ -1,7 +1,5 @@
-<h1>Explainable Instrument Classification</h1>
-<h3 style="margin-top: -10px; font-weight: normal;">
-From MFCC Mean-Vector Models to CNNs on MFCC and Mel-Spectrograms with t-SNE and Grad-CAM Insights
-</h3>
+# Explainable Instrument Classification:
+*From MFCC Mean-Vector Models to CNNs on MFCC and Mel-Spectrograms with t-SNE and Grad-CAM Insights*
 
 ## Overview
 The project focuses on the classification of audio files of musical instruments using Deep Learning techniques.
