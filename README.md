@@ -1,4 +1,4 @@
-# Explainable Instrument Classification:<br>
+# Explainable Instrument Classification:
 From MFCC Mean-Vector Models to CNNs on MFCC and Mel-Spectrograms with t-SNE and Grad-CAM Insights
 
 ## Overview
