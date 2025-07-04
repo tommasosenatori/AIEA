@@ -12,6 +12,8 @@ The dataset is available [here](https://www.kaggle.com/datasets/abdulvahap/music
 - Classification using MFCCs: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mfccs.ipynb)
 - Classification using Mel-Spectograms: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mel-spectograms.ipynb)
 - MFCC MEAN and t-SNE: [Here](https://github.com/tommasosenatori/AIEA/blob/main/musical_instrument_classification_mfcc_mean-tsne.ipynb)
+## Discussion
+The detailed discussion of the project is available in the [paper](https://github.com/tommasosenatori/AIEA-Explainable_Instrument_Classification/blob/main/Explainable_Instrument_Classification.pdf)
 ## Authors
 - Tommaso Senatori
 - Daniela Nardone
